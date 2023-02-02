@@ -17,6 +17,4 @@ if (N < 0)
 }
 
 for (; i <= N; i++)
-{
     Console.Write($"{Math.Pow(i, 3)} ");
-}
